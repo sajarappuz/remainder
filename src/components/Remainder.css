@@ -1,0 +1,55 @@
+.maindiv{
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 7px;
+    margin-top: 40px;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 3px;
+    padding-left: 30%;
+    margin-top: -10px;
+}
+.inputcntr{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between; 
+}
+input{
+    width: 400px;
+    margin-left: 50px;
+    border: 1px solid;
+}
+.inputbtn{
+    width: 100px;
+    height: 30px;
+    margin-right: 20px;
+    background-color: black;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 3px;
+    border-radius: 6px;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+}
+.inputbtn:hover{
+    width: 120px;
+}
+.display{
+    margin-top: 30px;
+}
+.showrem{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.remainder{
+ align-items: center;
+ margin-top: 20px;
+}
+.dltbtn{
+    margin-left: 600px;
+}
